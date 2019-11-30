@@ -1,5 +1,10 @@
 // Code your solutions in this file
 
-const writeCards = ["Ada", "Brendan", "Ali"];
+const cards = ["Ada", "Brendan", "Ali"];
+
+function writeCards(cards)
+{
+  
+}
 
 
